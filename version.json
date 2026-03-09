@@ -1,6 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "4.0",
+  "versionCode": 5,
+  "versionName": "5.0",
   "downloadUrl": "https://drive.google.com/drive/folders/1rdhE6XOWgHs7wRCmWTEuEsBU5FUyl8Xf?usp=sharing",
-  "updateLog": "Hola, en esta actualización:1. Se añadió un botón para controlar manualmente la exposición.2. Se aumentó el tamaño del texto de la cuenta regresiva de grabación.¡Te deseamos una grabación exitosa! 🎬"
+  "updateLog": "Hola, en esta actualización del software se realizaron las siguientes mejoras:
+1️⃣ Durante la grabación se bloquea automáticamente la temperatura de color, para asegurar que los colores de la imagen no cambien.
+2️⃣ Se agregó el modo rectangular “Ver video”; al hacer clic en este botón se puede cargar un video para grabar las expresiones al verlo."
 }
